@@ -24,16 +24,16 @@ h3 {
     margin-top: 50px;
 }
 
-.section3 {
-    color: blue;
-    font-size: 14px;
-    margin-top: 50px;
+.section2 ul li {
+    list-style: disc;
 }
 
 .importance {
     margin: 10px;
 }
 
-ul li {
-    list-style: disc;
+.section3 {
+    color: blue;
+    font-size: 14px;
+    margin-top: 50px;
 }
