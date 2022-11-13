@@ -1,18 +1,41 @@
+body {
+    padding: 20px;
+    background-color: white;
+}
+
 .section1 {
     color: green;
     font-size: 14px;
+    margin-top: 50px;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+.section1 a {
+    color: green;
 }
 
 .section2 {
     color: red;
     font-size: 14px;
+    margin-top: 50px;
 }
+
+
 
 
 
 .section3 {
     color: blue;
     font-size: 14px;
+    margin-top: 50px;
+}
+
+.importance {
+    margin: 10px;
 }
 
 ul li {
