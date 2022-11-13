@@ -1,0 +1,37 @@
+.likes-dislikes {
+    display: flex;
+    justify-content: center;
+}
+
+ol {
+    margin-right: 50px;
+    list-style: square;
+}
+
+ol h3 {
+    color: #1e90ff;
+}
+
+ol li {
+    color: #4da6ff;
+}
+
+#likes .likes {
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 50px;
+}
+
+ul h3 {
+    color: #28bd8c;
+}
+
+ul li {
+    color: #42d7a5;
+}
+
+#dislikes .dislikes {
+    margin-bottom: 10px;
+}
