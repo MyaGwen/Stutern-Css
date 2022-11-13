@@ -9,13 +9,24 @@ body {
     margin-top: 50px;
 }
 
-h1,
+.heading,
 h3 {
     text-align: center;
 }
 
+h1 :not(.heading) {
+    font-size: 18px;
+}
+
 .section1 a {
     color: green;
+}
+
+.A {
+    margin: auto;
+    border-bottom: 1px dotted green;
+    border-width: 4px;
+    width: 40px;
 }
 
 .section2 {
@@ -29,11 +40,25 @@ h3 {
 }
 
 .importance {
-    margin: 10px;
+    margin-top: 30px;
+}
+
+.B {
+    margin: auto;
+    border-bottom: 1px dotted red;
+    border-width: 4px;
+    width: 40px;
 }
 
 .section3 {
     color: blue;
     font-size: 14px;
     margin-top: 50px;
+}
+
+.C {
+    margin: auto;
+    border-bottom: 1px dotted blue;
+    border-width: 4px;
+    width: 40px;
 }
